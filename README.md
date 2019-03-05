@@ -1,2 +1,2 @@
 # Multiplexers
-Different Multiplexer code written with Verilog
+Codes for different types of Multiplexers. Code is written using Verilog.
